@@ -1,0 +1,14 @@
+# Real-Time Drowsiness Detection System
+
+This is a real-time drowsiness detection system using Python and OpenCV. The system uses a webcam to monitor the user's eyes for drowsiness. If drowsiness is detected, an alert sound is played.
+
+## Features:
+- Real-time drowsiness detection using facial landmarks.
+- Eye Aspect Ratio (EAR) calculation to detect eye closure.
+- Alert system with sound when drowsiness is detected.
+
+## Setup:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Real-Time-Drowsiness-Detection.git
